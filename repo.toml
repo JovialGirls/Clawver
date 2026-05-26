@@ -1,5 +1,6 @@
-[TestRelease]
-name = "TestRelease"
-description = "This is a test release."
-version = "1.0.0"
-url = "https://github.com/JovialGirls/Clawver/releases/download/test/projects.zip"
+version = 1
+name = "Clawver Official Repository"
+
+[packages]
+
+testrelease = "packages/test.toml"
